@@ -1,1 +1,9 @@
 All bugs discovered should be documented in this branch
+
+Potential Bugs may include image not loading,
+
+Emails not being validated
+
+Wrong username response
+
+
