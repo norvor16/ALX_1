@@ -1,0 +1,8 @@
+# Ignore all txt files
+*.txt
+
+# But track this one specifically
+!notes.txt
+
+# Ignore all files in the build/ directory
+build/
